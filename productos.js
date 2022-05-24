@@ -1,0 +1,15 @@
+let productos=[
+  {id: 1, name: 'Halo Infinite', price: 200.000, img: 'https://generacionxbox.com/wp-content/uploads/2021/02/Halo-Infinite-portada-fan.jpg.webp'},
+  {id: 2, name: 'Halo: The Master Chief Collection', price: 90.000,img: 'https://balls-mp-er.s3.us-east-2.amazonaws.com/Images/balon1.jpeg'},
+  {id: 3, name: 'Halo 5', price: 75.000,img: 'https://as01.epimg.net/meristation/imagenes/2015/04/29/noticia/1430290800_810970_1532453810_sumario_normal.jpg'},
+  {id: 4, name: 'Need For Speed Hot Pursuit Remastered', price: 80.000,img: 'https://cdn.shopify.com/s/files/1/0267/6251/0420/products/yow7xz13zl6wfek1ke63_77592c76-29f5-4f0f-8a07-dcf5848342d2_1800x1800.png?v=1636234305'},
+  {id: 5, name: 'Need For Speed', price: 70.000,img: 'https://www.accesoxbox.com/img/portadas/2064/xb_2064_portada.jpg'},
+  {id: 6, name: 'Need For Speed Playback', price: 50.000,img:'https://uvejuegos.com/img/caratulas/59196/Need-for-Speed-Payback-XONE.jpg'},
+  {id: 7, name: 'Gears of War: Ultimate Edition', price: 60.000,img: 'https://media.vandal.net/t200/30941/gears-of-war-ultimate-edition-2015811797_1.jpg'},
+  {id: 8, name: 'Gears of War 4', price: 80.000,img: 'https://uvejuegos.com/img/caratulas/55691/0_caratula.jpg'},
+  {id: 9, name: 'Gears of War 5', price: 100.000,img: 'https://media.vandal.net/m/61923/gears-of-war-5-20198161726203_1.jpg'},
+  {id: 10, name: 'Balón 9', price: 900,img: },
+  {id: 11, name: 'Balón 10', price: 1000,img: },
+  {id: 12, name: 'Balón 11', price: 1100,img: },
+  {id: 13, name: 'Balón 12', price: 1200,img: },
+]
