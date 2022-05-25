@@ -18,9 +18,7 @@
         <div class="registro">
             <nav>
                 <ul>
-                    <main id="contenedorProducto">
-                        
-                    </main>
+                    <button id="boton-carrito"><i class="fas fa-shopping-cart"></i><span id="carrito-c">0</span></button>
                     <li><a href="" target="_blank">Registro</a></li>
                     <li><a href="" target="_blank">inicio de sesion</a></li>
                 </ul>
@@ -69,7 +67,28 @@
                 </ul>
             </div>
     </main>
+    <section id="contenedorProducto">
+        
+    </section>
+  
+
+    <div class="modal-contenedor">
+        <div class="modal-carrito">
+            <h3>Carrito</h3>
+            <button id="carritoCerrar"><i class="fas fa-times-circle"></i>X</button>
+            <div id="carrito-contenedor">
+                <!-- <div class="productoEnCarrito">
+                    <p>Buzo 1</p>
+                    <p>Precio: $1200</p>
+                    <button class="boton-eliminar"><i class="fas fa-trash-alt"></i></button>
+                </div> -->
+            </div>
+            <p class = "precio_p">precio total: $<span id = "preciototal"></span></p>
+            <button id="vaciar" class="boton-agregar">vaciar carrito</button>
+        </div>
+    </div>
     <script src="productos.js"></script>
     <script src="carrito.js"></script>
+    <script src="model.js"></script> 
 </body>
 </html>
